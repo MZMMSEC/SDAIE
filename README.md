@@ -3,8 +3,10 @@
 [![Journal](https://img.shields.io/badge/Journal-IEEE%20TPAMI-blue.svg)](https://arxiv.org/abs/2512.05651)
 
 
-Official implementation of the paper "**Self-Supervised AI-Generated Image Detection: A Camera Metadata Perspective**", accepted by **IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**.
+Official implementation of the paper "**Self-Supervised AI-Generated Image Detection: A Camera Metadata Perspective**".
 
+## 🆕 News
+Our paper has been accepted for publication in **IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**.
 
 ## 📜 Abstract
 
