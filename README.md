@@ -3,12 +3,12 @@
 [![Journal](https://img.shields.io/badge/Journal-IEEE%20TPAMI-blue.svg)](https://arxiv.org/abs/2512.05651)
 
 
-Official implementation of the paper "**Self-Supervised AI-Generated Image Detection: A Camera Metadata Perspective**".
+Official implementation of the paper ["**Self-Supervised AI-Generated Image Detection: A Camera Metadata Perspective**"](https://github.com/Ekko-zn/SDAIE).
 
 ⭐️Our series work: [BLADES (ICCV'25 Highlight)](https://github.com/MZMMSEC/AIGFD_BLO)
 
 ## 🆕 News
-Our paper has been accepted for publication in **IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)** 🎉🎉🎉
+Our paper has been accepted for publication in [**IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**](https://ieeexplore.ieee.org/document/11353045) 🎉🎉🎉
 
 ## 📜 Abstract
 
@@ -25,14 +25,6 @@ exchangeable image file format (EXIF) tags---to learn features intrinsic to digi
 
 ---
 
-## 📅 TODO List
-
-- [ ] **Release Test Code**: Inference scripts and pre-trained checkpoints for quick evaluation.
-- [ ] **Release Training Code**: Complete pipeline for self-supervised pretext tasks and binary classifier training.
-- [ ] **Release EXIF Dataset**: Curated dataset of EXIF metadata and processed labels used in this study.
-
-
-
 ## ✍️ Citation
 
 If you find our work or code useful for your research, please cite:
@@ -41,6 +33,6 @@ If you find our work or code useful for your research, please cite:
 @article{zhong2025self,
   title={Self-Supervised AI-Generated Image Detection: A Camera Metadata Perspective},
   author={Zhong, Nan and Zou, Mian and Xu, Yiran and Qian, Zhenxing and Zhang, Xinpeng and Wu, Baoyuan and Ma, Kede},
-  journal={arXiv preprint arXiv:2512.05651},
-  year={2025}
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)},
+  year={2026}
 }
