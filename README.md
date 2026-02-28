@@ -3,7 +3,7 @@
 [![Journal](https://img.shields.io/badge/Journal-IEEE%20TPAMI-blue.svg)](https://arxiv.org/abs/2512.05651)
 
 
-Official implementation of the paper ["**Self-Supervised AI-Generated Image Detection: A Camera Metadata Perspective**"](https://github.com/Ekko-zn/SDAIE).
+Official implementation of the paper "**Self-Supervised AI-Generated Image Detection: A Camera Metadata Perspective**". See [Repo](https://github.com/Ekko-zn/SDAIE).
 
 ⭐️Our series work: [BLADES (ICCV'25 Highlight)](https://github.com/MZMMSEC/AIGFD_BLO)
 
